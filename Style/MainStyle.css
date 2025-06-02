@@ -10,9 +10,16 @@
     outline: 1px;
     outline-color: aliceblue;
     outline-style: solid;
+    background-color: #dadada25;
     width: 25%;
     height: 50px;
     margin: auto;
     display: inline-block;
     text-align: center;
+}
+.mainP {
+    width: 40%;
+}
+.contentAlignment {
+    padding-left: 80px;
 }
