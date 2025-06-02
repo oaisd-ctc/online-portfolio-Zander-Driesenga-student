@@ -1,0 +1,18 @@
+.headerText {
+    margin: auto;
+    width: 300px;
+    height: 50px;
+}
+.navAlign {
+    margin: auto;
+}
+.navDivAlign {
+    outline: 1px;
+    outline-color: aliceblue;
+    outline-style: solid;
+    width: 25%;
+    height: 50px;
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+}
