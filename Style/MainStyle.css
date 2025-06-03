@@ -23,3 +23,18 @@
 .contentAlignment {
     padding-left: 80px;
 }
+.imgAlign {
+    display: inline-block;
+    margin: auto;
+}
+.imgSpace {
+    padding-left: 10px;
+    padding-right: 30px;
+    margin: auto;
+    height: 100px;
+}
+.oneImgMovment {
+    padding-left: 40px;
+
+    height: 100px;
+}
